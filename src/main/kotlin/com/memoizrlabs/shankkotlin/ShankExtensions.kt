@@ -1,4 +1,4 @@
-package com.memoizrlabs.shankotlin
+package com.memoizrlabs.shankkotlin
 
 import com.memoizrlabs.NamedScopedCache
 import com.memoizrlabs.ScopedCache
